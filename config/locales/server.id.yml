@@ -57,3 +57,18 @@ id:
       closes_in: Ditutup dalam
       headline: 'Usulan %{author} di dalam %{group} akan segera ditutup:'
       summary: Ringkasan
+  footer:
+    about: Tentang
+    blog: Blog
+    contact: Hubungi
+    help: Bantuan
+    privacy: Kerahasiaan
+    pricing: Harga
+    public_groups: Kelompok umum
+    terms: Ketentuan
+  start_group_form:
+    group_name: Nama kelompok
+    success:
+      header: Anda hampir selesai! Periksa surel Anda.
+  pricing_page:
+    header: Harga

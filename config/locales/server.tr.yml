@@ -87,3 +87,29 @@ tr:
       specify_outcome: 'Sizin öneriniz kapandı. Herkesin bilmesi için bir sonuç belirtin:'
       outcome_created: "%{who} bir öneri sonucu belirledi"
       you_agreed: Sen %{past_tense_position}
+  footer:
+    about: Hakkında
+    blog: Blog
+    contact: İletişim
+    help: Yardım
+    privacy: Gizlilik
+    pricing: Fiyatlandırma
+    public_groups: Genel gruplar
+    terms: Şartlar
+  start_group_form:
+    header: Yeni bir grup başlat
+    name: Adın
+    group_name: Grup adı
+    success:
+      header: Neredeyse bitti! E-postanızı kontrol edin.
+  pricing_page:
+    header: Fiyatlandırma
+  contact_page:
+    contact_us: Bize yazın
+    labels:
+      name: Adın
+      email: E-posta adresin
+      message: Mesajın
+      submit: Mesaj gönder
+    messages:
+      email_html: Bu forumu doldurun, ya da <a href='mailto:%{email}'>%{email}</a> adresine bir E-posta gönderin

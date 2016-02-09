@@ -54,3 +54,17 @@ km:
       closes_in: បិទខាងក្នុង
       headline: "%{author}របស់សំណើរក្នុង%{group}ត្រូវបានបិទក្នុងពេលឆាប់ៗ"
       summary: សេចក្ដីសង្ខេប
+  footer:
+    about: អំពី
+    blog: កំណត់ហេតុបណ្ដាញ
+    contact: ទំនាក់ទំនង
+    help: ជួយ
+    privacy: ភាពជាឯកជន
+    pricing: តម្លៃ
+    terms: រយះពេល
+  start_group_form:
+    group_name: ឈ្មោះក្រុម
+    success:
+      header: អ្នកកំពុងតែបានធ្វើស្ទើតែ! ពិនិត្យអ៊ីម៉ែលរបស់អ្នក
+  pricing_page:
+    header: តម្លៃ

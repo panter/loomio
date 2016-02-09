@@ -184,15 +184,6 @@ sk:
     name: Loomio
   sr:
     toggle_navigation: Prepnúť navigáciu
-  footer:
-    about: O nás
-    blog: Blog
-    contact: Kontakt
-    help: Pomocník
-    privacy: Súkromie
-    pricing: Cenník
-    public_groups: Verejné skupiny
-    terms: Podmienky
   inbox:
     clear: Vyčistiť
     title: Doručená
@@ -269,12 +260,6 @@ sk:
       memberships: Vaše členstvo bude zrušené vo všetkých skupinách do ktorých v súčasnosti patríte.
       group_contributions: Komentáre, návrhy a diskusie ktoré ste urobili v skupinách ostanú, ale z nich bude odstránené vaše meno.
       emails: Prestanete dostávať emaily z Loomia.
-  start_group_form:
-    header: Vytvoriť novú skupinu
-    name: Vaše meno
-    group_name: Názov skupiny
-    success:
-      header: Ste takmer pri konci! Skontrolujte si email.
   group_form:
     name: Názov skupiny
     description: Popis
@@ -645,8 +630,6 @@ sk:
     invitation: Rady na napísanie neodolateľnej pozvánky
     proposal: Rady na napísanie jasného návrhu
     vote: Môžete kdykoľvek svoj postoj zmeniť
-  pricing_page:
-    header: Cenník
   contribution:
     any_amount: nebo jednorazový príspevok
     currency_desc: Čiastky sú uvedené v amerických dolároch
@@ -732,15 +715,6 @@ sk:
     empty_search: Prázdna vyhľadávanie
     please_enter_a_search: Prosím zadajte výraz do vyhľadávacieho poľa
     no_match: Žiadne výsledky neobsahujú výraz ktorý ste uviedli
-  contact_page:
-    contact_us: Kontaktujte nás
-    labels:
-      name: Vaše meno
-      email: Vaša emailová adresa
-      message: Vaša správa
-      submit: Odoslať správu
-    messages:
-      email_html: Vyplňte tento formulár, alebo zašlite email na <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Zahájiť diskusiu

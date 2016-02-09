@@ -167,15 +167,6 @@ tr:
     name: Loomio
   sr:
     toggle_navigation: Navigasyona geçiş
-  footer:
-    about: Hakkında
-    blog: Blog
-    contact: İletişim
-    help: Yardım
-    privacy: Gizlilik
-    pricing: Fiyatlandırma
-    public_groups: Genel gruplar
-    terms: Şartlar
   inbox:
     clear: Temizle
     title: Gelen kutusu
@@ -252,12 +243,6 @@ tr:
       memberships: Şu anda dahil olduğunuz grupların herhangi birinde artık üye olarak listelenmeyeceksiniz.
       group_contributions: Gruplarda yaptığınız yorumlar, öneriler ve tartışmalar kalacak, ancak bunlardan adınızı kaldıracağız.
       emails: Size Loomio ilgili e-posta göndermeyi durduracağız.
-  start_group_form:
-    header: Yeni bir grup başlat
-    name: Adın
-    group_name: Grup adı
-    success:
-      header: Neredeyse bitti! E-postanızı kontrol edin.
   group_form:
     name: Grup adı
     description: Açıklama
@@ -620,8 +605,6 @@ tr:
     invitation: Harika bir davetiye yazmak için ipuçları
     proposal: Anlaşılır bir öneri yazmak için ipuçları
     vote: Konumunu istediğin zaman değiştirebilirsin
-  pricing_page:
-    header: Fiyatlandırma
   contribution:
     any_amount: ya da bir seferlik şu şekilde kişisel katkı yapın
     currency_desc: Tutarlar ABD doları cinsindendir
@@ -719,15 +702,6 @@ tr:
     empty_search: Boş arama
     please_enter_a_search: Lütfen yukarıdaki arama çubuğunda bir sorgu girin
     no_match: Sorgunuzla eşleşen hiçbir sonuç bulunamadı
-  contact_page:
-    contact_us: Bize yazın
-    labels:
-      name: Adın
-      email: E-posta adresin
-      message: Mesajın
-      submit: Mesaj gönder
-    messages:
-      email_html: Bu forumu doldurun, ya da <a href='mailto:%{email}'>%{email}</a> adresine bir E-posta gönderin
   discussion_form:
     new:
       header: Bir müzakere başlat

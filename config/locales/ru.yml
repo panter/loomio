@@ -214,16 +214,6 @@ ru:
     name: Loomio
   sr:
     toggle_navigation: Toggle navigation
-  footer:
-    about: О нас
-    blog: Блог
-    contact: Контакты
-    help: Помощь
-    privacy: Конфиденциальность
-    pricing: Цены
-    public_groups: Общедоступные группы
-    terms: Условия
-    independent_install_html: '%{hostname} работает с независимой копией Loomio: <a href="http://github.com/loomio/loomio">разузнать побольше</a>.'
   inbox:
     clear: Очистить
     title: Входящие
@@ -293,12 +283,6 @@ ru:
       memberships: Вы больше не будете числиться членом ни в каких группах, к которым вы в настоящее время принадлежите.
       group_contributions: Комментарии, предложения и обсуждения, которые Вы делали в группах, останутся, но мы удалим из них Ваше имя .
       emails: Мы прекратим направлять Вам электронные письма, относящиеся к Loomio.
-  start_group_form:
-    header: Создайте новую группу
-    name: Ваше имя
-    group_name: Название группы
-    success:
-      header: Почти готово! Проверьте почту.
   group_form:
     name: Название группы
     description: Описание
@@ -558,8 +542,6 @@ ru:
     invitation: Подсказки для написания отличного приглашения
     proposal: Подсказки для написания понятного предложения
     vote: Вы можете изменить вашу позицию в любое время
-  pricing_page:
-    header: Цены
   contribution:
     currency_desc: Суммы зафиксированы в долларах США
     monthly_html: Я бы хотел делать ежемесячный взнос
@@ -588,12 +570,6 @@ ru:
     invite_people: Пригласите людей в вашу группу
   search:
     placeholder: Поиск
-  contact_page:
-    contact_us: Наши контакты
-    labels:
-      name: Ваше имя
-      email: Ваш е-мейл
-      message: Ваше сообщение
   discussion_form:
     new:
       header: Начать дискуссию

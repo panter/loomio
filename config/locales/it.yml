@@ -169,15 +169,6 @@ it:
     name: Loomio
   sr:
     toggle_navigation: Navigazione a menù
-  footer:
-    about: About
-    blog: Blog
-    contact: Contatti
-    help: Aiuto
-    privacy: Privacy
-    pricing: Prezzo
-    public_groups: Gruppi pubblici
-    terms: Termini
   inbox:
     clear: Pulisci
     title: Posta in arrivo
@@ -254,13 +245,6 @@ it:
       memberships: Non sarai più elencato tra i membri dei gruppi a cui attualmente appartieni.
       group_contributions: I commenti, le proposte e le discussioni che hai creato nei gruppi rimarranno, ma rimuoveremo il tuo nome da questi elementi.
       emails: Smetteremo di mandarti mail riguardo Loomio.
-  start_group_form:
-    header: Crea un nuovo gruppo
-    name: Nominativo
-    group_name: Nome gruppo
-    success:
-      header: Hai quasi finito! Controlla la tua email.
-    start_making_decisions: Per iniziare a prendere decisioni insieme su Loomio, crea un gruppo
   group_form:
     name: Nome gruppo
     description: Descrizione
@@ -672,8 +656,6 @@ it:
     invitation: 'Consigli per scrivere un bell''invito '
     proposal: Consigli per scrivere una proposta chiara
     vote: Puoi cambiare la tua posizione in ogni momento
-  pricing_page:
-    header: Prezzo
   contribution:
     any_amount: o un contributo unico personalizzato
     currency_desc: Cifre sono in dollaro statunitense
@@ -774,15 +756,6 @@ it:
     empty_search: Ricerca vuota
     please_enter_a_search: Per favore, fai la richiesta nella barra di ricerca qui sopra
     no_match: Non ci sono risultati che soddisfano la tua richiesta
-  contact_page:
-    contact_us: Contattaci
-    labels:
-      name: Nominativo
-      email: Indirizzo email
-      message: Messaggio
-      submit: Invia messaggio
-    messages:
-      email_html: Riempi questo modulo, o manda un'email a <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Comincia discussione

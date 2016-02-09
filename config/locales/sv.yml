@@ -167,15 +167,6 @@ sv:
     name: Loomio
   sr:
     toggle_navigation: Byt navigation
-  footer:
-    about: Om
-    blog: Blogga
-    contact: Kontakta
-    help: Hjälp
-    privacy: Slutet
-    pricing: Prissättning
-    public_groups: Öppna grupper
-    terms: Villkor
   inbox:
     clear: Klar
     title: Inbox
@@ -252,12 +243,6 @@ sv:
       memberships: 'Du kommer inte längre vara listad som medlem i någon av grupperna du tillhör. '
       group_contributions: 'Alla kommentarer och förslag du kommit med kommer att fortsätta synas, men vi tar bort ditt namn från dem. '
       emails: 'Vi komer att sluta skicka Loomio-relaterade mail. '
-  start_group_form:
-    header: Starta en ny grupp
-    name: Ditt namn
-    group_name: Gruppnamn
-    success:
-      header: Du är nästan klar! Kolla din email.
   group_form:
     name: Gruppnamn
     description: Beskrivning
@@ -633,8 +618,6 @@ sv:
     invitation: Tips för att skriva en bra inbjudan
     proposal: Tips för att skriva ett tydligt förslag
     vote: Du kan ändra din ståndpunkt när som helst
-  pricing_page:
-    header: Prissättning
   contribution:
     any_amount: eller ett engångsbidrag om
     currency_desc: Beloppen är angivna i US dollar
@@ -738,15 +721,6 @@ sv:
     empty_search: Ingen träff på sökningen
     please_enter_a_search: Skriv in en fråga i sökfältet ovan
     no_match: Det fanns inga resultat som matchade din fråga
-  contact_page:
-    contact_us: Kontakta oss
-    labels:
-      name: Ditt namn
-      email: Din emailadress
-      message: Ditt meddelande
-      submit: Skicka meddelande
-    messages:
-      email_html: Fyll i detta formulär, eller skicka ett email till <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Starta en diskussion

@@ -51,3 +51,29 @@ mk:
       closes_at: Се затвора во
       closes_in: Се затвора во
       summary: Резиме
+  footer:
+    about: За Loomio
+    blog: Блог
+    contact: Контакт
+    help: Помош
+    privacy: Приватност
+    pricing: Ценовник
+    public_groups: Јавни групи
+    terms: Услови
+  start_group_form:
+    header: Започни нова група
+    name: Твоето име
+    group_name: Име на групата
+    success:
+      header: Речиси си готов/а! Провери ја твојата електронска пошта.
+  pricing_page:
+    header: Ценовник
+  contact_page:
+    contact_us: Контактирајте не
+    labels:
+      name: Твоето име
+      email: Твојата електронска пошта
+      message: Твојата порака
+      submit: Испрати порака
+    messages:
+      email_html: Пополни ја формава, или испрати email до <a href='mailto:%{email}'>%{email}</a>

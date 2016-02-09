@@ -170,15 +170,6 @@ eo:
     name: Loomio
   sr:
     toggle_navigation: Transŝalti navigadon
-  footer:
-    about: Pri
-    blog: Blogo
-    contact: Kontakti
-    help: Helpo
-    privacy: Privateco
-    pricing: Prezo
-    public_groups: Publikaj grupoj
-    terms: Kondiĉoj
   inbox:
     title: Poŝtkesto
     dropdown-btn: Poŝtkesto
@@ -251,12 +242,6 @@ eo:
       memberships: Vi ne plu estos listigita kiel membro en ajna grupo al kiu vi nun apartenas.
       group_contributions: La komentoj, proponoj kaj diskutoj kiujn vi faris en grupoj restos tie, sed ni forviŝos vian nomon de ili.
       emails: Ni ne plu sendos retpoŝtaĵojn rilatajn al Loomio.
-  start_group_form:
-    header: Komenci novan grupon
-    name: Via nomo
-    group_name: Grupnomo
-    success:
-      header: Vi preskaŭ pretas! Kontrolu vian retpoŝton.
   group_form:
     name: Grupnomo
     description: Priskribo
@@ -638,8 +623,6 @@ eo:
     invitation: Konsiloj por verki bonegan inviton
     proposal: Konsiloj por verki klaran proponon
     vote: Vi povas ŝanĝi vian sintenon iam ajn
-  pricing_page:
-    header: Prezo
   contribution:
     any_amount: aŭ adaptita unu-foja kontribuo de
     currency_desc: Kvantoj estas en usonaj dolaroj
@@ -744,15 +727,6 @@ eo:
     empty_search: Malplena serĉo
     please_enter_a_search: Bonvolu enigi serĉpeton en la serĉbreto supre
     no_match: Ne troviĝis rezultoj kiuj kongruas kun via peto
-  contact_page:
-    contact_us: Kontakti nin
-    labels:
-      name: Via nomo
-      email: Via retpoŝtadreso
-      message: Via mesaĝo
-      submit: Sendi mesaĝon
-    messages:
-      email_html: Plenigu ĉi tiun formularon aŭ sendu retpoŝtaĵon al <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Komenci diskuton

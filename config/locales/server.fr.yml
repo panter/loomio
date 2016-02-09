@@ -98,3 +98,93 @@ fr:
       specify_outcome: 'Votre proposition a été fermée. Spécifiez un résultat afin que tout le monde puisse en être informé :'
       outcome_created: "%{who} propose le résultat :"
       you_agreed: Vous %{past_tense_position}
+  footer:
+    about: À propos
+    blog: Blog
+    contact: Contact
+    help: Aide
+    privacy: Confidentialité
+    pricing: Tarification
+    public_groups: Groupes publics
+    terms: Conditions d'utilisation
+    independent_install_html: '%{hostname} est une installation indépendante de Loomio : <a href="http://github.com/loomio/loomio">en savoir plus</a>.'
+  start_group_form:
+    enable_angular:
+      header: Les nouveaux groupes commencent dans Loomio 1.0
+      subtitle: 'Pour commencer un nouveau groupe, vous aurez besoin de passer à la nouvelle version de Loomio:'
+      switch_to_angular: Démarrer un groupe dans le nouveau Loomio
+      helptext: Nous avons reconstruit Loomio à partir de la base. Vous pouvez voir ce qui est nouveau <a href="/angular">ici</a>.<br/>Vous serez en mesure de revenir à l' ancienne version à tout moment si vous le souhaitez.
+    header: Créer un nouveau groupe
+    form_error: Quelques informations sont manquantes ou incorrectes.
+    name: Votre nom
+    name_error: Le nom est requis
+    email: Votre courriel
+    email_error: N'est pas une adresse de courriel valide
+    group_name: Nom du groupe
+    group_description: Description du groupe
+    group_description_placeholder: Décrivez le but de votre groupe pour que les membres sachent pourquoi ils sont là.
+    group_name_error: Le nom du groupe est requis
+    pricing_html: Dans 30 jours, nous vous demanderons de choisir un <a href='%{link}' target='_blank'>plan de tarification</a>.
+    terms_html: En créant un groupe, vous acceptez les  <a href='%{link}' target='_blank'>termes d'utilisation</a> de Loomio
+    success:
+      header: Vous avez presque fini ! Consultez votre e-mail.
+      email_delivered: Nous avons envoyé un courriel à %{email}. S'il vous plaît suivez le lien à l'intérieur de celui-ci afin de configurer votre nouveau groupe.
+      email_not_arrived: Le courriel n'est pas arrivé ?
+      please_hold: S'il vous plaît prévoir jusqu'à cinq 5 minutes pour la livraison du courriel  et veuillez vérifier votre dossier spam.
+    start_making_decisions: 'Pour commencer à prendre des décisions collectives sur Loomio, créez un groupe gratuitement:'
+  pricing_page:
+    header: Tarification
+    gift: Cadeau
+    standard: Standard
+    plus: Plus
+    free_trial_html: Nous vous demanderons de choisir votre plan tarifaire après une <span>période d'essai gratuite de 30 jours</span>. Pas besoin de carte bancaire.
+    get_started_for_free: Commencez gratuitement
+    gift_body_html: |
+      <p>Pour les groupes qui n'ont pas le budget pour payer une souscription.</p>
+      <p>Dons acceptés, sans obligation de paiement.</p>
+    gift_donation_ask: Nous proposerons à votre membres de faire un don.
+    unlimited_members: membres illimités
+    unlimited_decisions: décisions illimitées
+    email_support: Support courriel
+    standard_price_html: 'US <strong>$19</strong>/mois<br><span>ou</span> $190/an
+
+'
+    plus_body: 'Tout ce qui est compris dans Standard, plus:'
+    premium_support: support Premium
+    custom_url: lien URL personnalisé
+    usage_statistics: statistiques d'utilisation
+    plus_price_html: 'US <strong>$179</strong>/mois<br><span>ou</span> $1790/an
+
+'
+  password_reset:
+    email_guidelines_html: |
+      <p>Entrez l'adresse email de votre compte Loomio dans le champ ci-dessous et vous recevrez un lien de réinitialisation de votre mot de passe.</p>
+      <p>Si vous vous connectez normalement via Facebook , Google , Twitter ou Persona , entrez l'adresse e-mail associée à ce compte</p>
+    reset_email_timeframe: Cela peut prendre jusqu'à 5 minutes à l'e-mail pour arriver. S'il n’apparaît pas, vérifier votre dossier pourriel.
+    length_restriction: Les mots de passe doivent au moins avoir 8 caractères de long.
+    forbidden_passwords: Les mots de passe communs tels que "motdepasse" (password) sont interdits afin de garder votre compte sécurisé.
+  introduction_thread:
+    title: Bienvenue dans %{group_name}
+    description: |
+      S'il vous plaît prenez un moment pour vous présenter. Vous pourriez aimer partager la manière dont vous correspondez avec ce groupe de personnes.
+
+      Si vous avez des intentions claires pour ce groupe Loomio , vous pouvez les partager ici, chacun a une idée de ce qu'ils veulent faire avec les autres.
+  how_it_works_thread:
+    title: Comment utiliser Loomio
+  first_proposal:
+    name: 'Proposition de démonstration: c''est parti!'
+  contact_page:
+    contact_us: Contactez-nous
+    faq_prompt_html: Vous avez une question pour l'équipe de Loomio? Avant de nous contacter, vous pourriez trouver la réponse dans notre FAQ
+    contact_information: Si vous ne trouvez pas ce que vous cherchez vous pouvez notre formulaire de contact en bas de la page.
+    contact_form: Formulaire de contact
+    labels:
+      name: Votre nom
+      email: Votre adresse e-mail
+      message: Votre message
+      submit: Envoyer le message
+    messages:
+      email_html: Remplissez ce formulaire, ou envoyez un email à  <a href='mailto:%{email}'>%{email}</a>
+      social_html: 'Vous pouvez aussi nous rejoindre sur<br/><a href=''%{facebook}'' target=''_blank''>facebook</a>, <a href=''%{google}'' target=''_blank''>google+</a>, et <a href=''%{twitter}'' target=''_blank''>twitter</a>!
+
+'

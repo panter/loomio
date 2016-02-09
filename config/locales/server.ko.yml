@@ -62,3 +62,28 @@ ko:
       closes_in: '닫습니다. '
       headline: "%{group} 그룹에 %{author}님의 제안이 곧 마감이 됩니다."
       summary: 요약
+  footer:
+    about: 소개
+    blog: 블로그
+    contact: 연락하기
+    help: 도움말
+    privacy: 개인정보
+    pricing: 가격표
+    public_groups: 공개 그룹
+    terms: 정책
+  start_group_form:
+    header: 새로운 그룹 시작하기
+    name: 이름
+    group_name: 그룹명
+    success:
+      header: 거의 다 되었습니다. 이메일을 확인해 주세요.
+  pricing_page:
+    header: 가격표
+  contact_page:
+    labels:
+      name: 이름
+      email: 이메일 주소
+      message: 메시지
+      submit: 메시지 보내기
+    messages:
+      email_html: 양식을 채우거나 <a href='mailto:%{email}'>%{email}</a> 로 이메일을  보내세요.

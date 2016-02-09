@@ -73,3 +73,36 @@ uk:
       new_motion: "%{who} запропонував(ла)"
       motion_closing_soon: Пропозиція закривається через 24 години
       proposal_closed: 'Пропозиція закрита:'
+  footer:
+    about: Про Loomio
+    blog: Блог
+    contact: Контакти
+    help: Допомога
+    privacy: Конфіденційність
+    pricing: Ціни
+    public_groups: Публічні групи
+    terms: Умови
+  start_group_form:
+    header: Створити нову групу
+    name: Ваше ім'я
+    group_name: Назва групи
+    group_description: Опис групи
+    group_description_placeholder: Опишіть мету вашої групи, щоб учасникам групи було зрозуміло, навіщо вони тут.
+    success:
+      header: Ви майже закінчили! Перевірте Вашу електронну пошту.
+    start_making_decisions: 'Щоб почати приймати рішення разом на Loomio, створіть групу безкоштовно:'
+  pricing_page:
+    header: Ціни
+    gift_body_html: |
+      <p>Для груп, які не мають бюджету, щоб сплачувати підписку.</p>
+      <p>Можливі пожертвування без вимоги платити.</p>
+    email_support: підтримка по електронній пошті
+  contact_page:
+    contact_us: Контакти
+    labels:
+      name: Ваше ім'я
+      email: Ваша електронна адреса
+      message: Ваше повідомлення
+      submit: Відправити повідомлення
+    messages:
+      email_html: Заповніть цю форму, або надішліть email до <a href='mailto:%{email}'>%{email}</a>

@@ -98,3 +98,36 @@ hu:
       specify_outcome: 'A javaslatod lezárult. Készíts egy összegzést hogy mindenki megtudja az eredményt:'
       outcome_created: "%{who} összegezte egy javaslat eredményét:"
       you_agreed: Te %{past_tense_position}
+  footer:
+    about: Rólunk
+    blog: Blog
+    contact: Kapcsolat
+    help: Segítség
+    privacy: Adatvédelem
+    pricing: Árazás
+    public_groups: Nyilvános csoportok
+    terms: Feltételek
+    independent_install_html: '%{hostname} a Loomio egy független másolatát futtatja:<a href="http://github.com/loomio/loomio">bővebben</a>.'
+  start_group_form:
+    header: Új csoport létrehozása
+    form_error: Néhány információ hiányzik vagy hibás.
+    name: Neved
+    name_error: Név megadása kötelező
+    email: email címed
+    email_error: Hibás email cím.
+    group_name: Csoport neve
+    group_name_error: Csoportnév kötelező
+    terms_html: Csoportod indításával elfogadod a Loomio <a href='%{link}' target='_blank'>szolgáltatási feltételeit</a>.
+    success:
+      header: Mindjárt kész! Ellenőrizd az e-mailed.
+  pricing_page:
+    header: Árazás
+  contact_page:
+    contact_us: Értesíts minket
+    labels:
+      name: Neved
+      email: E-mail címed
+      message: Üzeneted
+      submit: Üzenet küldése
+    messages:
+      email_html: Töltsd ki ezt az űrlapot vagy írj egy e-mailt ide <a href='mailto:%{email}'>%{email}</a>

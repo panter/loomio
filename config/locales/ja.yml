@@ -135,15 +135,6 @@ ja:
         other: "%{count} 年"
   organisation:
     name: Loomio
-  footer:
-    about: 会社情報
-    blog: ブログ
-    contact: お問い合わせ
-    help: ヘルプ
-    privacy: 個人情報
-    pricing: 価格設定
-    public_groups: 公開グループ
-    terms: 使用条件
   inbox:
     title: 受信箱
     dropdown-btn: 受信箱
@@ -204,12 +195,6 @@ ja:
     body: コメント、または投票するためにはこのグループのメンバーである必要があります
   user_profile:
     change_password: パスワードを変更します
-  start_group_form:
-    header: 新しいグループを開始する
-    name: あなたの名前
-    group_name: グループ名
-    success:
-      header: もう少しで完了です！メールをチェックしてください
   group_form:
     name: グループ名
     description: 情報
@@ -516,8 +501,6 @@ ja:
     invitation: 素晴らしい招待を書くアドバイス
     proposal: はっきりした提案を書くアドバイス
     vote: いつでも意見を変更することができます
-  pricing_page:
-    header: 価格設定
   contribution:
     currency_desc: 総計はUSドルです
     monthly_html: に、毎月の寄付をしたい
@@ -614,15 +597,6 @@ ja:
     empty_search: 空検索
     please_enter_a_search: 上の検索バーに検索したい用語を入力してください
     no_match: 問い合わせにヒットする結果はありませんでした
-  contact_page:
-    contact_us: 問い合わせをする
-    labels:
-      name: あなたの名前
-      email: あなたのメールアドレス
-      message: あなたのメッセージ
-      submit: メッセージを送る
-    messages:
-      email_html: このフォームを埋めてください、もしくは <a href='mailto:%{email}'>%{email}</a> にメールを送ってください
   discussion_form:
     new:
       header: ディスカッションを開始する

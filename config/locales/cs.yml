@@ -172,15 +172,6 @@ cs:
     name: Loomio
   sr:
     toggle_navigation: Přepnout navigaci
-  footer:
-    about: O nás
-    blog: Blog
-    contact: Kontakt
-    help: Nápověda
-    privacy: Soukromí
-    pricing: Ceník
-    public_groups: Veřejné skupiny
-    terms: Podmínky
   inbox:
     clear: Vyčistit
     title: Doručná
@@ -255,19 +246,6 @@ cs:
       memberships: Již nebude uveden jako člen v žádné ze skupin, do kterých současnosti patříte.
       group_contributions: Komentáře, návrhy a diskuse, které jste provedli ve skupinách zůstanou, ale bude z nich odstraněno vaše jméno.
       emails: Přestaneme vám zasílat emaily související s Loomio.
-  start_group_form:
-    header: Vytvořit novou skupinu
-    form_error: Některé informace chybí nebo jsou nesprávné.
-    name: Vaše jméno
-    name_error: Je požadován název
-    email: Váš email
-    email_error: Neplatná e-mailová adresa.
-    group_name: Název skupiny
-    group_name_error: Je požadován název skupiny
-    success:
-      header: Jste téměř u konce! Zkontrolujte si email.
-      email_not_arrived: E-mail nebyl doručen?
-    start_making_decisions: 'Abyste začali společně rozhodovat na Loomio, založte skupinu zdarma:'
   group_form:
     name: Název skupiny
     description: Popis
@@ -542,12 +520,6 @@ cs:
     invitation: Rady pro napsání senzační pozvánky
     proposal: Rady pro napsání jasného návrhu
     vote: Můžete kdykoliv svůj postoj změnit
-  pricing_page:
-    header: Ceník
-    email_support: e-mailová podpora
-    premium_support: prémiová podpora
-    custom_url: vlastní URL
-    usage_statistics: statistiky využití
   contribution:
     any_amount: nebo jednorázový příspěvek
     currency_desc: Částky jsou uvedeny v amerických dolarech
@@ -619,16 +591,6 @@ cs:
     empty_search: Prázdné vyhledávání
     please_enter_a_search: Prosím zadejte výraz do vyhledávacího pole výše
     no_match: Žádné výsledky neodpovídali vašemu výrazu
-  contact_page:
-    contact_us: Kontaktujte nás
-    contact_form: Kontaktní formulář
-    labels:
-      name: Vaše jméno
-      email: Vaše emailová adresa
-      message: Vaše zpráva
-      submit: Odeslat zprávu
-    messages:
-      email_html: Vyplňte tento formulář, nebo zašlete email na <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Zahájit diskuzi

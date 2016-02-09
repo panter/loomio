@@ -170,15 +170,6 @@ gl:
     name: Loomio
   sr:
     toggle_navigation: Mostrar / Ocultar Navegación
-  footer:
-    about: Acerca de
-    blog: Blogue
-    contact: Contacto
-    help: Axuda
-    privacy: Privacidade
-    pricing: Custo
-    public_groups: Grupos públicos
-    terms: Termos de uso
   inbox:
     clear: Eliminar
     title: Caixa de entrada
@@ -255,12 +246,6 @@ gl:
       memberships: Xa non serás listado como membro en calquera dos grupos aos que pertences na actualidade.
       group_contributions: Os comentarios, propostas e debates que fagas nos grupos permanecerán, pero borraremos o teu nome deles.
       emails: Deixaremos de mandarche correos relacionados con Loomio.
-  start_group_form:
-    header: Comeza un novo grupo
-    name: O teu nome
-    group_name: Nome do grupo
-    success:
-      header: Case estás! Comproba o teu correo electrónico.
   group_form:
     name: Nome do grupo
     description: Descripción
@@ -494,8 +479,6 @@ gl:
     discussion: Recomendacións para comezar un debate aberto
     proposal: Trucos para escribir unha proposta clara
     vote: Podes cambiar a proposta en calquera momento
-  pricing_page:
-    header: Custo
   contribution:
     submit: Cooperar
     thought_about_contributing: A túa oportunidade de cooperar
@@ -548,13 +531,6 @@ gl:
     header: Resultados da búsqueda para '%{query}'
     placeholder: Buscar
     empty_search: Búsqueda baldeira
-  contact_page:
-    contact_us: Contáctenos
-    labels:
-      name: O teu nome
-      email: A túa dirección de correo electrónico
-      message: A túa mensaxe
-      submit: Enviar mensaxe
   discussion_form:
     new:
       header: Comezar debate

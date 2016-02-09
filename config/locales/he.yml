@@ -169,15 +169,6 @@ he:
     name: Loomio
   sr:
     toggle_navigation: הסתרת/הצגת ניווט
-  footer:
-    about: אודות
-    blog: בלוג
-    contact: יצירת קשר
-    help: עזרה
-    privacy: פרטיות
-    pricing: תמחור
-    public_groups: קבוצות ציבוריות
-    terms: תנאי שימוש
   inbox:
     clear: נקה/י
     title: דואר נכנס
@@ -254,12 +245,6 @@ he:
       memberships: הרישום לכל הקבוצות להן אתם רשומים יבוטל.
       group_contributions: ההערות, ההצעות והשיחות שהוספת לקבוצה לא ימחקו, אבל נסיר את שמך מהם.
       emails: נפסיק לשלוח לך דוא״ל הקשור ל Loomio.
-  start_group_form:
-    header: התחילו קבוצה חדשה
-    name: שמך
-    group_name: שם הקבוצה
-    success:
-      header: כמעט סיימת. הודעה נשלחה לתיבת הדוא״ל שלך.
   group_form:
     name: שם הקבוצה
     description: תיאור
@@ -480,8 +465,6 @@ he:
     start_discussion: מתחיל בדיון מרתק
   hint:
     discussion: טיפים להתחלת דיון מרתק
-  pricing_page:
-    header: תמחור
   new_password: סיסמא חדשה
   confirm_new_password: אישרור סיסמא חדשה
   change_your_password: שינוי סיסמא
@@ -510,13 +493,6 @@ he:
   search:
     placeholder: חיפוש
     empty_search: חיפוש ריק
-  contact_page:
-    contact_us: צרו קשר
-    labels:
-      name: שמך
-      email: כתובת הדוא״ל שלך
-      message: ההודעה שלך
-      submit: שלח הודעה
   discussion_form:
     new:
       header: התחילו בדיון

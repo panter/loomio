@@ -96,3 +96,69 @@ es:
       specify_outcome: " Su propuesta ha cerrado. Especifique un resultado para que todos lo conozcan:"
       outcome_created: "%{who} anunció el resultado de la propuesta "
       you_agreed: Tú %{past_tense_position}
+  footer:
+    about: Sobre Loomio
+    blog: Blog
+    contact: Contacto
+    help: Ayuda
+    privacy: Privacidad
+    pricing: Precio
+    public_groups: Grupos públicos
+    terms: Términos
+    independent_install_html: '%{hostname} esta utilizando una copia independiente de Loomio: <a href="http://github.com/loomio/loomio">enterate de más</a>.'
+  start_group_form:
+    header: Empieza un nuevo grupo
+    form_error: 'Falta alguna información o es incorrecta. '
+    name: Tu nombre
+    name_error: Se requiere el nombre.
+    email: 'Tu correo electrónico '
+    email_error: No es una dirección de correo electrónico valida.
+    group_name: Nombre del grupo
+    group_name_error: 'Se requiere el nombre del grupo. '
+    terms_html: Al empezar un grupo, aceptas los <a href='%{link}' target='_blank'>términos de servicio</a> de Loomio.
+    success:
+      header: "¡Ya casi has terminado! Revisa tu correo electrónico. "
+      email_delivered: Hemos enviado un correo electrónico a %{email}. Por favor sigue el link que hay dentro para configurar tu grupo
+      email_not_arrived: No te ha llegado el correo electrónico?
+      please_hold: Por favor espera hasta 5 minutos para que te llegue el correo electrónico y asegurate de mirar en la la carpeta de correo no solicitado.
+    start_making_decisions: Para empezar a tomar decisiones juntos con Loomio, crea un grupo. Es gratis.
+  pricing_page:
+    header: Precio
+    gift: Regalo
+    standard: 'Estándar '
+    plus: Más
+    free_trial_html: 'Te pediremos que elijas tu plan de pago luego de <span>30 días de prueba gratis</span>. No requiere tarjeta de crédito. '
+    get_started_for_free: 'Comienza gratis '
+    gift_body_html: |
+      <p> Para grupos que no tienen el presupuesto para pagar una suscripción.</p>
+      <p> Usándolo a donación, sin un pago regular requerido.</p>
+    gift_donation_ask: Le pediremos a los miembros de tu grupo por una donación.
+    unlimited_members: Cantidad ilimitada de miembros
+    unlimited_decisions: 'Cantidad ilimitada de decisiones '
+    email_support: 'soporte por correo electrónico '
+    plus_body: 'Todo en Estándar, más: '
+    premium_support: 'soporte especial '
+    custom_url: 'URL personalizado '
+    usage_statistics: Estadísticas de uso
+  password_reset:
+    email_guidelines_html: |
+      <p>Introduce la dirección de correo electrónico de tu cuenta de Loomio en el espacio de abajo y se te enviará un enlace para restablecer tu contraseña.</p>
+      <p>Si normalmente inicias sesión mediante Facebook, Google, Twitter o Persona, introduce el correo electrónico asociado con esa cuenta.</p>
+    reset_email_timeframe: Puede tardar hasta 5 minutos para que llegue el correo electrónico. si no lo recibes asegúrate de mirar en tu carpeta de correo no deseado.
+    length_restriction: La contraseña debe tener al menos 8 caracteres.
+    forbidden_passwords: Contraseñas comunes como "contraseña' están prohibidas para mantener tu cuenta segura.
+  contact_page:
+    contact_us: Contáctanos
+    faq_prompt_html: Tienes una pregunta para el equipo de Loomio? antes de contactarnos, quizás puedas encontrar la respuesta en nuestra sección de preguntas frecuentes.
+    contact_information: Si no encuentras lo que buscas, puedes encontrar nuestra información de contacto al final de la pagina.
+    contact_form: Formulario de contacto.
+    labels:
+      name: Tu nombre
+      email: Tu correo electrónico
+      message: Tu mensaje
+      submit: Enviar mensaje
+    messages:
+      email_html: Rellena este formulario o envía un correo electrónico a <a href='mailto:%{email}'>%{email}</a>
+      social_html: 'También puedes sumarte en<br/><a href=''%{facebook}'' target=''_blank''>facebook</a>, <a href=''%{google}'' target=''_blank''>google+</a>, y <a href=''%{twitter}'' target=''_blank''>twitter</a>!
+
+'

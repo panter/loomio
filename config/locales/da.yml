@@ -170,15 +170,6 @@ da:
     name: Loomio
   sr:
     toggle_navigation: Skift navigation
-  footer:
-    about: Om
-    blog: Blog
-    contact: Kontakt
-    help: Hjælp
-    privacy: Fortrolighed
-    pricing: Priser
-    public_groups: Offentlige grupper
-    terms: Betingelser
   inbox:
     clear: ryd
     title: Indbakke
@@ -255,12 +246,6 @@ da:
       memberships: Du vil ikke længere blive vist som et medlem i nogle af de grupper som du i øjeblikket tilhører.
       group_contributions: De kommentarer, forslag og diskussioner, som du er kommet med i grupper forbliver, men vi vil fjerne dit navn fra dem.
       emails: Vi vil stoppe med at sende dig Loomio-relaterede mails.
-  start_group_form:
-    header: Start en ny gruppe
-    name: Dit navn
-    group_name: Gruppenavn
-    success:
-      header: Du er næsten færdig! Tjek din email.
   group_form:
     name: Gruppenavn
     description: Beskrivelse
@@ -657,8 +642,6 @@ da:
     invitation: Tips til at skrive en god invitation
     proposal: Tips til at skrive et klart forslag
     vote: Du kan ændre dit standpunkt når som helst
-  pricing_page:
-    header: Priser
   contribution:
     any_amount: eller et tilpasset engangsbidrag på
     currency_desc: Mængder er i amerikanske dollars
@@ -763,15 +746,6 @@ da:
     empty_search: Slet søgning
     please_enter_a_search: Indtast venligst noget at søge efter i søgelinjen ovenfor
     no_match: Der var ingen resultater der passede til din forespørgsel
-  contact_page:
-    contact_us: Kontakt os
-    labels:
-      name: Dit navn
-      email: Din email-adresse
-      message: Din besked
-      submit: Send besked
-    messages:
-      email_html: Udfyld denne formular eller send en e-mail til <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Start en diskussion

@@ -62,3 +62,29 @@ ja:
       closes_in: 後に締め切られます
       headline: " %{group} の %{author} の提案はもうすぐ締め切られます："
       summary: 要約
+  footer:
+    about: 会社情報
+    blog: ブログ
+    contact: お問い合わせ
+    help: ヘルプ
+    privacy: 個人情報
+    pricing: 価格設定
+    public_groups: 公開グループ
+    terms: 使用条件
+  start_group_form:
+    header: 新しいグループを開始する
+    name: あなたの名前
+    group_name: グループ名
+    success:
+      header: もう少しで完了です！メールをチェックしてください
+  pricing_page:
+    header: 価格設定
+  contact_page:
+    contact_us: 問い合わせをする
+    labels:
+      name: あなたの名前
+      email: あなたのメールアドレス
+      message: あなたのメッセージ
+      submit: メッセージを送る
+    messages:
+      email_html: このフォームを埋めてください、もしくは <a href='mailto:%{email}'>%{email}</a> にメールを送ってください

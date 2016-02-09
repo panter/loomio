@@ -168,15 +168,6 @@ ca:
         other: "%{count} anys"
   organisation:
     name: Loomio
-  footer:
-    about: Quant a
-    blog: Blog
-    contact: Contacte
-    help: Ajuda
-    privacy: Privacitat
-    pricing: Preus
-    public_groups: Grups públics
-    terms: Termes d'ús
   inbox:
     clear: Esborrar
     title: Safata d'entrada
@@ -247,12 +238,6 @@ ca:
       query: Et faria res explicar-nos per què desactives el teu compte?
       info_title: Què suposarà desactivar el teu compte?
       emails: Deixarem d'enviar-te correus electrònics relacionats amb Loomio.
-  start_group_form:
-    header: Comença un nou grup
-    name: El teu nom
-    group_name: Nom del grup
-    success:
-      header: Ja quasi ho tens! Comprova el teu correu electrònic.
   group_form:
     name: Nom del grup
     description: Descripció
@@ -546,8 +531,6 @@ ca:
     invitation: Claus per escriure una bona invitació
     proposal: Claus per escriure una proposta clara
     vote: Pots canviar la teva posició en qualsevol moment
-  pricing_page:
-    header: Preus
   contribution:
     any_amount: o una contribució voluntària única
     currency_desc: Les quantitats són en dòlars dels EUA
@@ -613,11 +596,6 @@ ca:
     empty_search: Cerca buida
     please_enter_a_search: Entra una cerca al camp de dalt
     no_match: No s'ha trobat res que coincideixi amb la teva cerca
-  contact_page:
-    labels:
-      name: El teu nom
-      email: Adreça de correu
-      message: El teu missatge
   discussion_form:
     new:
       header: Comença una discussió

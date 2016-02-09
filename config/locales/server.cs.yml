@@ -73,3 +73,41 @@ cs:
       change_preferences: 'Změna nastavení e-mailu:'
       motion_closing_soon: 'Návrhy uzavřené během 24 hodin:'
       proposal_closed: 'Návrh uzavřen:'
+  footer:
+    about: O nás
+    blog: Blog
+    contact: Kontakt
+    help: Nápověda
+    privacy: Soukromí
+    pricing: Ceník
+    public_groups: Veřejné skupiny
+    terms: Podmínky
+  start_group_form:
+    header: Vytvořit novou skupinu
+    form_error: Některé informace chybí nebo jsou nesprávné.
+    name: Vaše jméno
+    name_error: Je požadován název
+    email: Váš email
+    email_error: Neplatná e-mailová adresa.
+    group_name: Název skupiny
+    group_name_error: Je požadován název skupiny
+    success:
+      header: Jste téměř u konce! Zkontrolujte si email.
+      email_not_arrived: E-mail nebyl doručen?
+    start_making_decisions: 'Abyste začali společně rozhodovat na Loomio, založte skupinu zdarma:'
+  pricing_page:
+    header: Ceník
+    email_support: e-mailová podpora
+    premium_support: prémiová podpora
+    custom_url: vlastní URL
+    usage_statistics: statistiky využití
+  contact_page:
+    contact_us: Kontaktujte nás
+    contact_form: Kontaktní formulář
+    labels:
+      name: Vaše jméno
+      email: Vaše emailová adresa
+      message: Vaše zpráva
+      submit: Odeslat zprávu
+    messages:
+      email_html: Vyplňte tento formulář, nebo zašlete email na <a href='mailto:%{email}'>%{email}</a>

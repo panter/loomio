@@ -120,14 +120,6 @@ ar:
         few: "%{count} ثوان"
         many: "%{count} ثوان"
         other: "%{count} ثوان"
-  footer:
-    about: حول
-    blog: مدونة
-    contact: تواصل معنا
-    help: مساعدة
-    privacy: خصوصية
-    public_groups: المجموعات المفتوحة للعموم
-    terms: شروط الخدمة
   notifications:
     header: التنبيهات
     new_motion: أنشأ اقتراحا
@@ -174,8 +166,6 @@ ar:
     reactivation_html: سيتعين عليك <a href='%{link}'>الإتصال بنا</a> لإعادة تفعيل حسابك.
     deactivation:
       title: جار إيقاف حسابك
-  start_group_form:
-    group_name: اسم المجموعة
   group_form:
     name: اسم المجموعة
     description: الوصف

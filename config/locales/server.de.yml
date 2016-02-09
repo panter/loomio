@@ -96,3 +96,127 @@ de:
       specify_outcome: Dein Vorschlag ist geschlossen. Lege einen Beschluss fest, damit jedeR erfahren kann, wie das Ergbnis lautet.
       outcome_created: "%{who} gibt folgendes Vorschlagsergebnis bekannt:"
       you_agreed: Du %{past_tense_position}
+  footer:
+    about: Über Loomio
+    blog: Blog
+    contact: Kontakt
+    help: Hilfe
+    privacy: Privatsphäre
+    pricing: Preisgestaltung
+    public_groups: Öffentliche Gruppen
+    terms: Bedingungen
+    independent_install_html: '%{hostname} benutzt eine unabhängige Kopie von Loomio: <a href="http://github.com/loomio/loomio"> Erfahre mehr </a>.'
+  start_group_form:
+    enable_angular:
+      header: Neue Gruppen beginnen in Loomio 1.0
+      subtitle: 'Um eine neue Gruppe zu gründen musst Du zur brandneuen Version von Loomio wechseln:'
+      switch_to_angular: Gründe eine Gruppe im neuen Loomio
+      helptext: Wir haben Loomio komplett überarbeitet. Alles was neu ist kannst Du hier <a href="/angular">here</a> lesen.<br/>Du kannst zur alten Version jederzeit zurück wechseln.
+    header: Gründe eine Gruppe
+    form_error: Etwas fehlt oder ist nicht korrekt.
+    name: Dein Name
+    name_error: Name wird benötigt
+    email: Deine eMail
+    email_error: Keine gültige E-Mail-Adresse.
+    group_name: Gruppenname
+    group_description: Gruppenbeschreibung
+    group_description_placeholder: Beschreibe den Zweck Deiner Gruppe, damit Mitglieder wissen, warum sie mitmachen sollten.
+    group_name_error: Gruppenname wird benötigt
+    pricing_html: In 30 Tagen werden wir Dich bitten ein <a href='%{link}' target='_blank'>Vertragsmodell</a> zu wählen.
+    terms_html: Sobald Du eine Gruppe gründest stimmst Du Loomio's <a href='%{link}' target='_blank'>Geschäftsbedingungen</a> zu.
+    success:
+      header: Du bist fast fertig! Prüfe Deine eMails.
+      email_delivered: Wir haben eine eMail an %{email} gesendet. Bitte folge dem darin enthaltenen Link um Deine neue Gruppe einzurichten.
+      email_not_arrived: Kam die eMail nicht an?
+      please_hold: Bitte gib der eMail 5 Minuten Zeit und prüfe auch Deinen Spam-Ordner.
+    start_making_decisions: 'Um gemeinsam auf Loomio Entscheidungen zu treffen, erstelle kostenlos eine Gruppe:'
+  pricing_page:
+    header: Preisgestaltung
+    gift: Geschenk
+    standard: Standard
+    plus: Plus
+    free_trial_html: Nach einem <span>30-tägigen kostenlosen Probezeitraum</span> werden wir Dich nach Deinem Vertragsmodell fragen. Es ist keine Kreditkarte notwendig.
+    get_started_for_free: Starte nun kostenlos
+    gift_body_html: |
+      <p>Für Gruppen, die kein Budget für ein Abonnement haben</p>
+      <p>Spendenfinanziert, ohne Zahlungsverpflichtung.</p>
+    gift_donation_ask: Wir werden Deine Gruppenmitglieder um Spenden bitten.
+    unlimited_members: unbegrenzte Mitglieder
+    unlimited_decisions: unbegrenzte Abstimmungen
+    email_support: eMail-Support
+    standard_price_html: 'US-<strong>$19</strong>/Monat<br><span>or</span> $190/Jahr
+
+'
+    plus_body: 'Wie in Standard, zusätzlich:'
+    premium_support: Premium Support
+    custom_url: benutzerspezifische URL
+    usage_statistics: Nutzerstatistiken
+    plus_price_html: 'US-<strong>$179</strong>/Monat<br><span>or</span> $1790/Jahr
+
+'
+  password_reset:
+    email_guidelines_html: |
+      <p>Gib die eMail-Adresse Deines Loomio-Konto's in das untenstehende Feld ein und Du wirst einen Link gesendet bekommen, um das Passwort zurückzusetzen.</p>
+      <p>Falls Du Dich üblicherweise mit Facebook, Google, Twitter oder Persona einloggst, gib die dementsprechende eMail-Adresse ein.</p>
+    reset_email_timeframe: Es wird bis zu 5 Minuten dauern, bis die eMail Dich erreicht. Bitte prüfe gegebenenfalls auch Deinen Spam-Ordner.
+    length_restriction: Passwörter müssen mindestens 8 Zeichen enthalten.
+    forbidden_passwords: Um Dein Konto sicher zu gestalten, sind einfache Passwörter, wie "passwort" und ähnliches verboten.
+  introduction_thread:
+    title: Willkommen bei %{group_name}
+    description: |
+      Bitte nimm Dir einen Moment Zeit, um Dich vorzustellen. Du könntest mitteilen, warum Du zu dieser Gruppe passt.
+
+      Wenn Du klare Vorstellungen für diese Loomio-Gruppe hast, könntest Du sie mitteilen, damit alle anderen hier erkennen können, was euer gemeinsames Ziel sein könnte.
+  how_it_works_thread:
+    title: Wie man Loomio benutzen kann
+    description: |
+      Willkommen bei Loomio, ein Online-Patz, um gemeinsam Entscheidungen zu treffen.
+
+      Dies ist ein beispielhafter **Diskussionsstrang**. Warum nicht einfach mal hier die verschiedenen Loomio Features ausprobieren?
+
+      Momentan liest Du die **Beschreibung** der Diskussion. Nutze diesen Bereich, um der Gruppe die Hintergrund-Informationen zur Verfügung zu stellen, die sie für eine produktive Diskssion benötigt.
+
+      Im Bereich **Vorschlag** werden die Entsccheidungen gefällt. Hier kannst Du Vorschläge einbringen und daran teilnehmen.
+
+      Im Bereich **Beiträge** wird alles aufgeführt, was in dieser Diskussion bereits passiert ist.
+  first_comment:
+    body: |
+      Hi Leute, ich bin der Loomio Hilfe-Roboter.
+
+      Wenn Du die Aufmerksamkeit einer bestimmten Person in der Gruppe haben willst, gib ein @ und anschließend den Namen der Person ein :)
+
+      Hier sind ein paar Hinweise, was Du alles ausprobieren könntest, um ein bisschen vertrauter zu werden:
+
+      - Richte Dein [Profilbild](/profile) ein
+      - Richte Deine [eMail Einstellungen](/email_preferences) ein
+      - Stelle Dich im [Willkommen in der %{group_name} Forum](%{thread_url}) vor
+
+      Wenn Du weitere Fragen hast, dann prüfe erst mal in der [Loomio Hilfe-Anleitung](http://help.loomio.org).
+  first_proposal:
+    name: 'Versuchsvorschlag: letz gouuu!'
+    description: |
+      Dies ist die **Beschreibung** des Vorschlags. Hier kannst Du den zur Diskussion gestellten Vorschlag genau beschreiben, damit jedes Mitglied der Gruppe eine Entscheidung treffen kann.
+
+      Um an einem Vorschlag teilzunehmen, wähle eine der folgenden Optionen:
+
+      - **Zustimmen**: "I stimme dem zu und möchte, dass es weitergeht."
+      - **Enthalten**: Ich kann gut damit leben, wenn die Gruppe das ohne mich entscheidet."
+      - **Ablehnen**: "Ich glaube wir können das besser."
+      - **Veto**: "Ich habe erhebliche Einwände gegen diesen Vorschlag und möchte nicht, dass auf dieser Basis weiterdiskutiert wird."
+
+      Wenn Du Dich entschieden hast, wirst Du um einen kurzen Kommentar zu Deiner Entscheidung gebeten. Du kannst Deine Meinung jederzeit ändern, solange der Vorschlag noch offen ist.
+  contact_page:
+    contact_us: Kontaktiere uns
+    faq_prompt_html: 'Du hast eine Frage an das Loomio Team? Bevor Du uns kontaktierst, prüfe, ob Du die Antwort in unseren meistgestellten Fragen (faq''s) findest. '
+    contact_information: Wenn Du nichts gefunden hast, findest Du unsere Kontaktinformationen am Ende dieser Seite
+    contact_form: Kontaktformular
+    labels:
+      name: Dein Name
+      email: Deine eMail-Adresse
+      message: Deine Nachricht
+      submit: Nachricht abschicken
+    messages:
+      email_html: Fülle dieses Formular aus oder schicke eine eMail an <a href='mailto:%{email}'>%{email}</a>
+      social_html: 'Du kannst Dich uns auch auf<br/><a href=''%{facebook}'' target=''_blank''>facebook</a>, <a href=''%{google}'' target=''_blank''>google+</a>, und <a href=''%{twitter}'' target=''_blank''>twitter</a> anschließen!
+
+'

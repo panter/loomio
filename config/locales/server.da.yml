@@ -87,3 +87,29 @@ da:
       specify_outcome: 'Dit forslag er lukket. Angiv et resultat for at lade alle vide hvad resultatet er:'
       outcome_created: "%{who} har angivet resultatet af et forslag:"
       you_agreed: Dit standpunkt var %{past_tense_position}
+  footer:
+    about: Om
+    blog: Blog
+    contact: Kontakt
+    help: Hjælp
+    privacy: Fortrolighed
+    pricing: Priser
+    public_groups: Offentlige grupper
+    terms: Betingelser
+  start_group_form:
+    header: Start en ny gruppe
+    name: Dit navn
+    group_name: Gruppenavn
+    success:
+      header: Du er næsten færdig! Tjek din email.
+  pricing_page:
+    header: Priser
+  contact_page:
+    contact_us: Kontakt os
+    labels:
+      name: Dit navn
+      email: Din email-adresse
+      message: Din besked
+      submit: Send besked
+    messages:
+      email_html: Udfyld denne formular eller send en e-mail til <a href='mailto:%{email}'>%{email}</a>

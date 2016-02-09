@@ -110,13 +110,6 @@ vi:
         other: "%{count} năm"
       almost_x_years:
         other: "%{count} năm"
-  footer:
-    about: Dịch bởi Vietnamesel10n
-    blog: Blog
-    contact: Liên hệ
-    help: Trợ giúp
-    privacy: Quyền riêng tư
-    terms: Điều khoản sử dụng
   inbox:
     title: Hộp thư
     dropdown-btn: Hộp thư
@@ -153,9 +146,6 @@ vi:
     header: Chào mừng đến với Trang Chủ của bạn
   user_profile:
     change_password: Thay đổi mật khẩu của bạn
-  start_group_form:
-    success:
-      header: Bạn đã sắp hoàn tất! Hãy kiểm tra email của mình.
   setup_steps_title: 'Các bước tiếp theo:'
   setup_step_1: Thử dùng một thảo luận dạng mẫu
   setup_step_2: Bắt đầu phần thảo luận đầu tiên của bạn

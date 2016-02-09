@@ -170,15 +170,6 @@ uk:
     name: Loomio
   sr:
     toggle_navigation: Увімкнути навігацію
-  footer:
-    about: Про Loomio
-    blog: Блог
-    contact: Контакти
-    help: Допомога
-    privacy: Конфіденційність
-    pricing: Ціни
-    public_groups: Публічні групи
-    terms: Умови
   inbox:
     clear: Очистити
     title: Вхідні
@@ -253,15 +244,6 @@ uk:
       memberships: Ви більше не знаходитиметесь серед учасників будь-яких груп, в яких ви нині є членом.
       group_contributions: Коментарі, пропозиції та обговорення, які ви зробили в групах, залишаться, але з них зникне ваше ім’я.
       emails: Ми білше не будемо висилати вам розсилки, пов’язані з Loomio.
-  start_group_form:
-    header: Створити нову групу
-    name: Ваше ім'я
-    group_name: Назва групи
-    group_description: Опис групи
-    group_description_placeholder: Опишіть мету вашої групи, щоб учасникам групи було зрозуміло, навіщо вони тут.
-    success:
-      header: Ви майже закінчили! Перевірте Вашу електронну пошту.
-    start_making_decisions: 'Щоб почати приймати рішення разом на Loomio, створіть групу безкоштовно:'
   group_form:
     name: Назва групи
     description: Опис
@@ -550,12 +532,6 @@ uk:
     invitation: Підказки щодо написання влучного запрошення.
     proposal: Підказки щодо написання чіткої пропозиції
     vote: Ви можете змінити Ваше ставлення будь-коли
-  pricing_page:
-    header: Ціни
-    gift_body_html: |
-      <p>Для груп, які не мають бюджету, щоб сплачувати підписку.</p>
-      <p>Можливі пожертвування без вимоги платити.</p>
-    email_support: підтримка по електронній пошті
   contribution:
     any_amount: або індивідуальний разовий внесок у розмірі
     currency_desc: Суми зазначено у американських доларах
@@ -654,15 +630,6 @@ uk:
     empty_search: Пошук пустий
     please_enter_a_search: Будь ласка, впишіть запит у ділянці пошуку вище
     no_match: Не було результатів, що відповідають вашому запиту.
-  contact_page:
-    contact_us: Контакти
-    labels:
-      name: Ваше ім'я
-      email: Ваша електронна адреса
-      message: Ваше повідомлення
-      submit: Відправити повідомлення
-    messages:
-      email_html: Заповніть цю форму, або надішліть email до <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Розпочати дискусію

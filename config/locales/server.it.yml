@@ -88,3 +88,30 @@ it:
       specify_outcome: La tua proposta è chiusa. Specifica un risultato per far sapere a tutti qual è l'esito.
       outcome_created: "%{who} ha impostato un risultato per la proposta:"
       you_agreed: Tu %{past_tense_position}
+  footer:
+    about: About
+    blog: Blog
+    contact: Contatti
+    help: Aiuto
+    privacy: Privacy
+    pricing: Prezzo
+    public_groups: Gruppi pubblici
+    terms: Termini
+  start_group_form:
+    header: Crea un nuovo gruppo
+    name: Nominativo
+    group_name: Nome gruppo
+    success:
+      header: Hai quasi finito! Controlla la tua email.
+    start_making_decisions: Per iniziare a prendere decisioni insieme su Loomio, crea un gruppo
+  pricing_page:
+    header: Prezzo
+  contact_page:
+    contact_us: Contattaci
+    labels:
+      name: Nominativo
+      email: Indirizzo email
+      message: Messaggio
+      submit: Invia messaggio
+    messages:
+      email_html: Riempi questo modulo, o manda un'email a <a href='mailto:%{email}'>%{email}</a>

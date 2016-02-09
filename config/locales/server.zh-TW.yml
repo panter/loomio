@@ -96,3 +96,125 @@ zh-TW:
       specify_outcome: 您的提議已經定案。請具體說明成果，讓每個人都能知道提案的結果：
       outcome_created: "%{who} 確立了提案成果："
       you_agreed: 您%{past_tense_position}
+  footer:
+    about: 關於
+    blog: 部落格
+    contact: 聯絡我們
+    help: 教學文件
+    privacy: 隱私設定
+    pricing: 價格
+    public_groups: 公開群組
+    terms: 聲明
+    independent_install_html: '%{hostname} 運作的是 Loomio 的獨立副本：<a href="http://github.com/loomio/loomio">詳細瞭解</a>。'
+  start_group_form:
+    enable_angular:
+      header: 在 Loomio 1.0 中啟動的新群組
+      subtitle: 要啟動一個新群組，您將會需要切換到全新版本的 Loomio：
+      switch_to_angular: 在新的 Loomio 中啟動群組
+      helptext: 我們已從頭開始重建 Loomio。您可以 <a href="/angular">在這裡</a> 閱讀有什麼新東西。<br/>您可以在任何時候切換回舊版的 Loomio。
+    header: 啟動新的群組
+    form_error: 有一些資訊遺失或不正確。
+    name: 您的大名
+    name_error: 名稱必填
+    email: 您的電子郵件
+    email_error: 並非有效的電子郵件地址。
+    group_name: 群組名稱
+    group_description: 群組描述
+    group_description_placeholder: 描述群組的目的讓您的夥伴們知道他們為什麼在這裡。
+    group_name_error: 群組名稱必填
+    pricing_html: 在 30 天內，我們將會詢問您要選取哪一個 <a href='%{link}' target='_blank'>定價方案</a>。
+    terms_html: 要開始一個群組，您即同意遵守 Loomio 的<a href='%{link}' target='_blank'>服務條款</a>。
+    success:
+      header: 您就快完成了！請確認您的電子郵件信箱。
+      email_delivered: 我們已經寄出一封電子郵件到 %{email}。請跟隨裡面的連結設定您的群組。
+      email_not_arrived: 電子郵件尚未抵達？
+      please_hold: 請允許它在五分鐘內到達，並同時也請檢查您的垃圾信資料夾。
+    start_making_decisions: 要開始在 Loomio 上共同作出決策，先免費設定一個群組：
+  pricing_page:
+    header: 價格
+    gift: 禮物
+    standard: 標準
+    plus: 白金
+    free_trial_html: 我們將會在<span>30天的免費試用</span>後，詢問您要選擇哪一個價格方案。不需要信用卡。
+    get_started_for_free: 免費開始
+    gift_body_html: |
+      <p>對於沒有預算支付訂閱費的群組。</p>
+      <p>也支援捐款，不需要付任何費用。</p>
+    gift_donation_ask: 我們將會詢問您的群組成員是否捐款。
+    unlimited_members: 無限的成員
+    unlimited_decisions: 無限的決策
+    email_support: 電子郵件支援
+    standard_price_html: '美元 <strong>$19</strong>/月<br><span>或</span> $190/年
+
+'
+    plus_body: 在標準價格中的每樣東西，再加上：
+    premium_support: 進階支援
+    custom_url: 自定義 URL
+    usage_statistics: 使用統計
+    plus_price_html: '美元 <strong>$179</strong>/month<br><span>or</span> $1790/year
+
+'
+  password_reset:
+    email_guidelines_html: |
+      <p>在下面的欄位中填入您 Loomio 帳號的電子郵件地址，然後您將會收到一個密碼的重置連結。</p>
+      <p>如果您是透過 Facebook、Google、Twitter 或是 Persona 登入的話，請輸入與這些帳號相關聯的電子郵件地址。</p>
+    reset_email_timeframe: 這將會花費 5 分鐘的時間將電子郵件寄到。如果沒有出現，請務必檢查您的垃圾信資料夾。
+    length_restriction: 密碼應至少 8 個字元長。
+    forbidden_passwords: 常見的密碼，像是「password」將會被拒絕以保護您的帳號安全。
+  introduction_thread:
+    title: 歡迎來到 %{group_name}
+    description: |
+      請花一點時間來介紹您自己，並分享您是如何配合這個群組的夥伴們的。
+
+      若您對這個 Loomio 群組有清楚的想法，您可以在此分享，這樣每個人就都可以有對如何一起實現有較清楚的想法。
+  how_it_works_thread:
+    title: 如何使用 Loomio
+    description: |
+      歡迎來到 Loomio，一個線上協同討論的地方。
+
+      這是一個範例**討論串**。為何不使用這個空間來嘗試 Loomio 的功能呢？
+
+      您目前正在閱讀討論串**內容**。使用此空間來給予群組背景資訊來進行一個有生產力的討論。
+
+       **提案**區塊是您要做出決定的地方。您可以啟動並參與在此區塊的提案。
+
+       **動態**區塊包含了一切在該討論串發生的活動。
+  first_comment:
+    body: |
+      大家好，我是 Loomio 小幫手機器人。
+
+      若您想要讓在您群組裡的特定的人注意到您，在意見欄內輸入 @，後面跟著他們的名字。:)
+
+      這裡有一些您可能會想要做的事情：
+      - 設定您的 [簡歷照片](/profile)
+      - 設定您的 [電子郵件設定](/email_preferences)
+      - 在 [歡迎來到 %{group_name} 討論串](%{thread_url}) 中介紹自己
+
+      若您有任何問題，第一個可以看的地方就是 [Loomio 說明手冊](http://help.loomio.org)。
+  first_proposal:
+    name: 示範提案：走吧！
+    description: |
+      這是提案的**描述**。您可以在這裡解釋行動的過程，並給予足夠的詳細資訊讓每個人都可以作出資訊足夠的決定。
+
+      要參與提案，您可以選擇以下的四個選項其中之一：
+      - **同意**：「我贊成就這麼進行。」
+      - **棄權**：「我很樂意群組的決定沒有我的參與。」
+      - **反對**：「我認為我們可以做的更好。」
+      - **阻擋**：「我強烈反對並且不願意這個提案繼續下去。」
+
+      當您選擇了四個選項的其中一個的時候，您將會被提醒要輸入一段簡短的聲明來解釋您的立場與為什麼您對這件事有此感受。您隨時都可以改變您的立場，只要提案仍是開放狀態。
+  contact_page:
+    contact_us: 聯絡我們
+    faq_prompt_html: 對 Loomio 團隊有任何問題？在聯絡我們之前，您應該先在我們的常見問題中找尋答案。
+    contact_information: 如果您找不到您想找的東西，您可以在這個頁面的底部找到我們的聯絡資訊。
+    contact_form: 聯絡表單
+    labels:
+      name: 您的大名
+      email: 您的電子郵件地址
+      message: 您的訊息
+      submit: 寄送訊息
+    messages:
+      email_html: 填寫這張表格，或發電子郵件到 <a href='mailto:%{email}'>%{email}</a>
+      social_html: '您也可以在 <br/><a href=''%{facebook}'' target=''_blank''>facebook</a>、<a href=''%{google}'' target=''_blank''>google+</a>、以及 <a href=''%{twitter}'' target=''_blank''>twitter</a> 上加入我們！
+
+'

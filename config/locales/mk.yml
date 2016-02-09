@@ -121,15 +121,6 @@ mk:
         other: "%{count} години"
   organisation:
     name: Loomio
-  footer:
-    about: За Loomio
-    blog: Блог
-    contact: Контакт
-    help: Помош
-    privacy: Приватност
-    pricing: Ценовник
-    public_groups: Јавни групи
-    terms: Услови
   inbox:
     title: Сандаче
     dropdown-btn: Сандаче
@@ -167,12 +158,6 @@ mk:
     header: Приклучи се во групата за да учествуваш
   user_profile:
     change_password: Измени ја лозинката
-  start_group_form:
-    header: Започни нова група
-    name: Твоето име
-    group_name: Име на групата
-    success:
-      header: Речиси си готов/а! Провери ја твојата електронска пошта.
   group_form:
     name: Име на групата
     description: Опис
@@ -352,8 +337,6 @@ mk:
     video_id: '52025402'
     video_tutorial: Видео туторијал
     video_tutorial_description: Провери го видеото за брза демонстрација како се користи Loomio.
-  pricing_page:
-    header: Ценовник
   resend_confirmation: Испрати повторно инструкции за потврда
   new_password: Нова лозинка
   confirm_new_password: Потврди ја новата лозинка
@@ -395,15 +378,6 @@ mk:
     description: Подолу е листата на дискусии и предлози кои имаат '%{query}' во својот наслов или опис.
     placeholder: Пребарувај
     empty_search: Празно пребарување
-  contact_page:
-    contact_us: Контактирајте не
-    labels:
-      name: Твоето име
-      email: Твојата електронска пошта
-      message: Твојата порака
-      submit: Испрати порака
-    messages:
-      email_html: Пополни ја формава, или испрати email до <a href='mailto:%{email}'>%{email}</a>
   discussion_form:
     new:
       header: Започни дискусија

@@ -84,3 +84,29 @@ sv:
       specify_outcome: 'Ert förslag har stängt. Ange ett utfall för att låta alla veta vad resultatet är:'
       outcome_created: "%{who} satt ett förslag utfall:"
       you_agreed: Du %{past_tense_position}
+  footer:
+    about: Om
+    blog: Blogga
+    contact: Kontakta
+    help: Hjälp
+    privacy: Slutet
+    pricing: Prissättning
+    public_groups: Öppna grupper
+    terms: Villkor
+  start_group_form:
+    header: Starta en ny grupp
+    name: Ditt namn
+    group_name: Gruppnamn
+    success:
+      header: Du är nästan klar! Kolla din email.
+  pricing_page:
+    header: Prissättning
+  contact_page:
+    contact_us: Kontakta oss
+    labels:
+      name: Ditt namn
+      email: Din emailadress
+      message: Ditt meddelande
+      submit: Skicka meddelande
+    messages:
+      email_html: Fyll i detta formulär, eller skicka ett email till <a href='mailto:%{email}'>%{email}</a>

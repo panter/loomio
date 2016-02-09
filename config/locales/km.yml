@@ -129,14 +129,6 @@ km:
         other: "%{count}  ឆ្នាំ "
       almost_x_years:
         other: "%{count}ឆ្នាំ "
-  footer:
-    about: អំពី
-    blog: កំណត់ហេតុបណ្ដាញ
-    contact: ទំនាក់ទំនង
-    help: ជួយ
-    privacy: ភាពជាឯកជន
-    pricing: តម្លៃ
-    terms: រយះពេល
   inbox:
     title: 'ប្រអប់ទទួល '
     dropdown-btn: 'ប្រអប់ទទួល '
@@ -182,10 +174,6 @@ km:
     header: សូមស្វាគមន៍មកកាន់ទំព័រដើមរបស់អ្នក​
   user_profile:
     change_password: ផ្លាស់ប្ដូរលេខសម្ងាត់របស់អ្នក
-  start_group_form:
-    group_name: ឈ្មោះក្រុម
-    success:
-      header: អ្នកកំពុងតែបានធ្វើស្ទើតែ! ពិនិត្យអ៊ីម៉ែលរបស់អ្នក
   group_form:
     name: ឈ្មោះក្រុម
     description: ការពិពណ៍នាសង្ខេប
@@ -376,8 +364,6 @@ km:
     invitation: គន្លឹះសម្រាប់ការសរសេរការអញ្ចើញដ៏អស្ចារ្យ
     proposal: គន្លឹះសម្រាប់ការសរសេរសំណើរច្បាស់លាស់
     vote: អ្នកអាចផ្លាស់ប្ដូរទីតាំងរបស់អ្នកនៅពេលណាមួួយ
-  pricing_page:
-    header: តម្លៃ
   contribution:
     any_amount: ឬផ្ទាល់ខ្លួន one-off នៃការចូលរួមចំណេក
     currency_desc: ចំនួនទឹកប្រាក់គឺនៅក្នុងដុល្លាអាមេរិក

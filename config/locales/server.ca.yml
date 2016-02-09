@@ -61,3 +61,25 @@ ca:
       change_preferences: Canvia les preferències de correu electrònic
       proposal_closed: 'Proposta tancada:'
       you_agreed: "%{past_tense_position}"
+  footer:
+    about: Quant a
+    blog: Blog
+    contact: Contacte
+    help: Ajuda
+    privacy: Privacitat
+    pricing: Preus
+    public_groups: Grups públics
+    terms: Termes d'ús
+  start_group_form:
+    header: Comença un nou grup
+    name: El teu nom
+    group_name: Nom del grup
+    success:
+      header: Ja quasi ho tens! Comprova el teu correu electrònic.
+  pricing_page:
+    header: Preus
+  contact_page:
+    labels:
+      name: El teu nom
+      email: Adreça de correu
+      message: El teu missatge

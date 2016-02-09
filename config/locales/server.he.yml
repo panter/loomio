@@ -31,3 +31,27 @@ he:
     thread_mailer:
       change_preferences: 'שינוי העדפות הדוא״ל שלך:'
       proposal_closed: 'ההצעה נסגרה:'
+  footer:
+    about: אודות
+    blog: בלוג
+    contact: יצירת קשר
+    help: עזרה
+    privacy: פרטיות
+    pricing: תמחור
+    public_groups: קבוצות ציבוריות
+    terms: תנאי שימוש
+  start_group_form:
+    header: התחילו קבוצה חדשה
+    name: שמך
+    group_name: שם הקבוצה
+    success:
+      header: כמעט סיימת. הודעה נשלחה לתיבת הדוא״ל שלך.
+  pricing_page:
+    header: תמחור
+  contact_page:
+    contact_us: צרו קשר
+    labels:
+      name: שמך
+      email: כתובת הדוא״ל שלך
+      message: ההודעה שלך
+      submit: שלח הודעה

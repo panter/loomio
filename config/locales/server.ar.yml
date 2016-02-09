@@ -41,3 +41,13 @@ ar:
       hi: مرحبا بك %{name}،
     proposal_closing_soon:
       closes_in: سيغلق خلال
+  footer:
+    about: حول
+    blog: مدونة
+    contact: تواصل معنا
+    help: مساعدة
+    privacy: خصوصية
+    public_groups: المجموعات المفتوحة للعموم
+    terms: شروط الخدمة
+  start_group_form:
+    group_name: اسم المجموعة

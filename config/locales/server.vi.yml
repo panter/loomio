@@ -34,3 +34,13 @@ vi:
     proposal_closing_soon:
       closes_in: Đóng lại vào
       summary: Tóm tắt
+  footer:
+    about: Dịch bởi Vietnamesel10n
+    blog: Blog
+    contact: Liên hệ
+    help: Trợ giúp
+    privacy: Quyền riêng tư
+    terms: Điều khoản sử dụng
+  start_group_form:
+    success:
+      header: Bạn đã sắp hoàn tất! Hãy kiểm tra email của mình.

@@ -88,3 +88,29 @@ sk:
       specify_outcome: 'Váš návrh bol uzatvorený. Sformulujte výsledok a všetkým ho oznámte. '
       outcome_created: "%{who} zosumarizoval výsledok návrhu:"
       you_agreed: Vy %{past_tense_position}
+  footer:
+    about: O nás
+    blog: Blog
+    contact: Kontakt
+    help: Pomocník
+    privacy: Súkromie
+    pricing: Cenník
+    public_groups: Verejné skupiny
+    terms: Podmienky
+  start_group_form:
+    header: Vytvoriť novú skupinu
+    name: Vaše meno
+    group_name: Názov skupiny
+    success:
+      header: Ste takmer pri konci! Skontrolujte si email.
+  pricing_page:
+    header: Cenník
+  contact_page:
+    contact_us: Kontaktujte nás
+    labels:
+      name: Vaše meno
+      email: Vaša emailová adresa
+      message: Vaša správa
+      submit: Odoslať správu
+    messages:
+      email_html: Vyplňte tento formulár, alebo zašlite email na <a href='mailto:%{email}'>%{email}</a>
