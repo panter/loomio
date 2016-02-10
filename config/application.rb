@@ -108,7 +108,7 @@ module Loomio
         openssl_verify_mode: 'none'
       }.compact
     else
-      config.action_mailer.delivery_method = :test
+      config.action_mailer.delivery_method = :sendmail
     end
 
     config.action_mailer.default_url_options = config.action_controller.default_url_options = {
