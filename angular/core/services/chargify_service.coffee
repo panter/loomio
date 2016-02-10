@@ -7,8 +7,7 @@ angular.module('loomioApp').factory 'ChargifyService', (CurrentUser) ->
         last_name:    CurrentUser.lastName()
         email:        CurrentUser.email
         organization: group.name
-        key:          group.key
-        reference:    moment().unix()
+        reference:    "#{group.key}|#{moment().unix()}"
 
       _.map(_.keys(params), (key) ->
         encodeURIComponent(key) + "=" + encodeURIComponent(params[key])

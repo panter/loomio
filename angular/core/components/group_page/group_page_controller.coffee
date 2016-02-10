@@ -1,6 +1,8 @@
 angular.module('loomioApp').controller 'GroupPageController', ($rootScope, $location, $routeParams, Records, CurrentUser, MessageChannelService, AbilityService, AppConfig, ModalService, SubscriptionSuccessModal, GroupWelcomeModal, LegacyTrialExpiredModal) ->
   $rootScope.$broadcast 'currentComponent', {page: 'groupPage'}
 
+  # allow for chargify reference, which comes back #{groupKey}|#{timestamp}
+  $routeParams.key = $routeParams.key.split('|')[0]
   Records.groups.findOrFetchById($routeParams.key).then (group) =>
     @group = group
     $rootScope.$broadcast 'currentComponent', { page: 'groupPage' }
