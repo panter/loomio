@@ -37,6 +37,7 @@ angular.module('loomioApp').controller 'GroupPageController', ($rootScope, $loca
 
   @handleSubscriptionSuccess = ->
     if (AppConfig.chargify or AppConfig.environment == 'development') and $location.search().chargify_success?
+      @subscriptionSuccess = true
       @group.subscriptionKind = 'paid' # incase the webhook is slow
       $location.search 'chargify_success', null
       ModalService.open SubscriptionSuccessModal
@@ -45,6 +46,7 @@ angular.module('loomioApp').controller 'GroupPageController', ($rootScope, $loca
     AbilityService.isCreatorOf(@group) and
     @group.noInvitationsSent() and
     !@group.trialIsOverdue() and
+    !@subscriptionSuccess and
     !GroupWelcomeModal.shownToGroup[@group.id]
 
   @handleWelcomeModal = =>
